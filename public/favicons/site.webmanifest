@@ -1,15 +1,15 @@
 {
-  "name": "Arkavya",
-  "short_name": "Arkavya",
+  "name": "MyWebSite",
+  "short_name": "MySite",
   "icons": [
     {
-      "src": "/public/favicons/web-app-manifest-192x192.png",
+      "src": "/web-app-manifest-192x192.png?v=20260524",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/public/favicons/web-app-manifest-512x512.png",
+      "src": "/web-app-manifest-512x512.png?v=20260524",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
